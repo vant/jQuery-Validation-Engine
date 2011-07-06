@@ -7,6 +7,8 @@
  * 2.0 Rewrite by Olivier Refalo
  * http://www.crionics.com
  *
+ * 2.0 Rewrite by Vant 2011.07
+ *
  * Form validation engine allowing custom regex rules to be added.
  * Licensed under the MIT License
  */
